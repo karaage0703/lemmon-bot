@@ -31,11 +31,11 @@ $ cd aquestalkpi
 ```
 
 ## Test Aquestalk Pi
-Connect active speaker to raspberry pi and execute following command:
+Connect active speaker to raspberry pi, then execute following command:
 ```sh
 $ ./AquesTalkPi "hello" |  aplay
 ```
-If setting is correct, you will hear bot speaks "hello".
+If setting is correct, you will hear that bot speaks "hello".
 
 ## Git clone
 Execute following commands:
