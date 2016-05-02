@@ -48,15 +48,23 @@ $ git clone https://github.com/karaage0703/TextGenerator.git
 # Tweet from bot
 Execute following command:
 ```sh
-./lemmon-tweet-bot.sh
+$ ./lemmon-tweet-bot.sh
 ```
 
 
 # Bot speaking
 Execute following command:
 ```sh
-./lemmon-speak-bot.sh
+$ ./lemmon-speak-bot.sh
+```
+
+# Bot speaking periodically
+Execute following command:
+```sh
+$ python lemmon-speak-periodically-bot.py
 ```
 
 
+# License
+This software is released under the MIT License, see LICENSE.
 
