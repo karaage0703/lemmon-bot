@@ -37,13 +37,20 @@ $ ./AquesTalkPi "hello" |  aplay
 ```
 If setting is correct, you will hear that bot speaks "hello".
 
-## Git clone
+## Git clone and Generate DB file
 Execute following commands:
 ```sh
 $ git clone https://github.com/karaage0703/lemmon-bot.git
 $ cd lemmon-bot
 $ git clone https://github.com/karaage0703/TextGenerator.git
+$ cd TextGenerator
+$ python PrepareChain.py sample.txt
 ```
+
+## Make DataBase file
+Execute following commands:
+```sh
+
 
 # Tweet from bot
 Execute following command:
