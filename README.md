@@ -47,11 +47,6 @@ $ cd TextGenerator
 $ python PrepareChain.py sample.txt
 ```
 
-## Make DataBase file
-Execute following commands:
-```sh
-
-
 # Tweet from bot
 Execute following command:
 ```sh
